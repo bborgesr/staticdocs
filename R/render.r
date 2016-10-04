@@ -1,5 +1,5 @@
 #' @export
-hello <- function() print("hello world!")
+hello <- function() print("hello world AGAIN!")
 
 #' Render complete page.
 #'
