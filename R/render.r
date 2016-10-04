@@ -1,3 +1,6 @@
+#' @export
+hello <- function() print("hello world!")
+
 #' Render complete page.
 #'
 #' @param package Path to package to document.
